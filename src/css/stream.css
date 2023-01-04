@@ -1,0 +1,49 @@
+.streamContainer {
+  margin-top: 10%;
+  font-family: sans-serif;
+  margin-left: 20%;
+}
+
+.createFlowContainer {
+  margin: 3%;
+}
+
+.createFlowForm{
+  margin: 3%;
+}
+
+.createFlowCalculation {
+  border: 2px solid green;
+  padding: 2.5%;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 2.5%;
+  margin-bottom: 2.5%;
+}
+
+.deleteFlowContainer{
+  margin: 3%;
+}
+
+.deleteFlowForm{
+  margin: 3%;
+}
+
+.displayNone{
+  display: none;
+}
+
+.streamContainer a:link{
+  color: white;
+  text-decoration: underline;
+}
+
+.streamContainer a:visited{
+  color: white;
+  text-decoration: underline;
+}
+
+.txMsg{
+  font-size: small;
+  margin-top: 20px;
+}

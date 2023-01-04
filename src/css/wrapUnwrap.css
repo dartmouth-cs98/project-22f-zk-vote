@@ -1,0 +1,40 @@
+.wrapUnwrapContainer{
+  margin-top: 10%;
+  margin-left: 20%;
+  font-family: sans-serif;
+}
+
+.wrapContainer{
+  margin: 3%;
+}
+
+.wrapForm{
+  margin: 3%;
+}
+
+.wrapMessage{
+  font-size: smaller;
+  margin: 3%;
+}
+
+.unwrapContainer{
+  margin: 3%;
+}
+
+.unwrapForm{
+  margin: 3%;
+}
+
+.wrapUnwrapContainer a:link{
+  color: white;
+  text-decoration: underline;
+}
+
+.wrapUnwrapContainer a:visited{
+  color: white;
+  text-decoration: underline;
+}
+
+.displayNone{
+  display: none;
+}
